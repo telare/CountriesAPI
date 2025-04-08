@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "population": 1444216107,
+      "name": "China",
+      "continent": "Asia",
+      "capital": "Beijing",
+      "funFact": "China’s Great Wall stretches over 13,000 miles."
+    },
+    {
+      "id": 2,
+      "population": 1418728627,
+      "name": "India",
+      "continent": "Asia",
+      "capital": "New Delhi",
+      "funFact": "India is the world’s largest democracy."
+    },
+    {
+      "id": 3,
+      "population": 338289857,
+      "name": "United States",
+      "continent": "North America",
+      "capital": "Washington, D.C.",
+      "funFact": "The US has no official language at the federal level."
+    },
+    {
+      "id": 4,
+      "population": 277534122,
+      "name": "Indonesia",
+      "continent": "Asia",
+      "capital": "Jakarta",
+      "funFact": "Indonesia is the world’s largest archipelago with over 17,000 islands."
+    },
+    {
+      "id": 5,
+      "population": 242923845,
+      "name": "Pakistan",
+      "continent": "Asia",
+      "capital": "Islamabad",
+      "funFact": "Pakistan is home to the world’s second highest mountain, K2."
+    },
+    {
+      "id": 6,
+      "population": 218541212,
+      "name": "Nigeria",
+      "continent": "Africa",
+      "capital": "Abuja",
+      "funFact": "Nigeria is Africa’s largest economy by GDP."
+    },
+    {
+      "id": 7,
+      "population": 215353593,
+      "name": "Brazil",
+      "continent": "South America",
+      "capital": "Brasília",
+      "funFact": "Brazil is home to the Amazon Rainforest, the world’s largest tropical rainforest."
+    },
+    {
+      "id": 8,
+      "population": 173954038,
+      "name": "Bangladesh",
+      "continent": "Asia",
+      "capital": "Dhaka",
+      "funFact": "Bangladesh has one of the world’s highest population densities."
+    },
+    {
+      "id": 9,
+      "population": 146745098,
+      "name": "Russia",
+      "continent": "Europe/Asia",
+      "capital": "Moscow",
+      "funFact": "Russia spans 11 time zones."
+    },
+    {
+      "id": 10,
+      "population": 131562772,
+      "name": "Mexico",
+      "continent": "North America",
+      "capital": "Mexico City",
+      "funFact": "Mexico City sinks about 10 inches per year due to groundwater extraction."
+    },
+    {
+      "id": 11,
+      "population": 123294513,
+      "name": "Japan",
+      "continent": "Asia",
+      "capital": "Tokyo",
+      "funFact": "Tokyo is the world’s most populous metropolitan area."
+    },
+    {
+      "id": 12,
+      "population": 125640074,
+      "name": "Ethiopia",
+      "continent": "Africa",
+      "capital": "Addis Ababa",
+      "funFact": "Ethiopia follows its own calendar, which is about 7 years behind the Gregorian calendar."
+    },
+    {
+      "id": 13,
+      "population": 115559688,
+      "name": "Philippines",
+      "continent": "Asia",
+      "capital": "Manila",
+      "funFact": "The Philippines is the world’s second-largest archipelago."
+    },
+    {
+      "id": 14,
+      "population": 109994213,
+      "name": "Egypt",
+      "continent": "Africa",
+      "capital": "Cairo",
+      "funFact": "Egypt’s Giza pyramids are one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 15,
+      "population": 100920144,
+      "name": "Vietnam",
+      "continent": "Asia",
+      "capital": "Hanoi",
+      "funFact": "Vietnam is the world’s largest cashew nut producer."
+    },
+    {
+      "id": 16,
+      "population": 104569491,
+      "name": "DR Congo",
+      "continent": "Africa",
+      "capital": "Kinshasa",
+      "funFact": "The Congo River is the world’s deepest river."
+    },
+    {
+      "id": 17,
+      "population": 87506006,
+      "name": "Turkey",
+      "continent": "Asia/Europe",
+      "capital": "Ankara",
+      "funFact": "Istanbul is the only city in the world that spans two continents."
+    },
+    {
+      "id": 18,
+      "population": 88550284,
+      "name": "Iran",
+      "continent": "Asia",
+      "capital": "Tehran",
+      "funFact": "Persian carpets from Iran can take years to hand-weave."
+    },
+    {
+      "id": 19,
+      "population": 84270625,
+      "name": "Germany",
+      "continent": "Europe",
+      "capital": "Berlin",
+      "funFact": "Germany has over 1,500 types of beer."
+    },
+    {
+      "id": 20,
+      "population": 71992567,
+      "name": "Thailand",
+      "continent": "Asia",
+      "capital": "Bangkok",
+      "funFact": "Thailand was formerly known as Siam until 1939."
+    },
+    {
+      "id": 21,
+      "population": 68207116,
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "capital": "London",
+      "funFact": "The UK consists of England, Scotland, Wales, and Northern Ireland."
+    },
+    {
+      "id": 22,
+      "population": 65817643,
+      "name": "France",
+      "continent": "Europe",
+      "capital": "Paris",
+      "funFact": "France is the most visited country in the world."
+    },
+    {
+      "id": 23,
+      "population": 58850072,
+      "name": "Italy",
+      "continent": "Europe",
+      "capital": "Rome",
+      "funFact": "Italy has the most UNESCO World Heritage Sites."
+    },
+    {
+      "id": 24,
+      "population": 63298550,
+      "name": "Tanzania",
+      "continent": "Africa",
+      "capital": "Dodoma",
+      "funFact": "Mount Kilimanjaro, Africa’s highest peak, is in Tanzania."
+    },
+    {
+      "id": 25,
+      "population": 60142978,
+      "name": "South Africa",
+      "continent": "Africa",
+      "capital": "Pretoria",
+      "funFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."
+    },
+    {
+      "id": 26,
+      "population": 55045420,
+      "name": "Myanmar",
+      "continent": "Asia",
+      "capital": "Naypyidaw",
+      "funFact": "Myanmar’s Bagan plain has over 2,000 ancient temples."
+    },
+    {
+      "id": 27,
+      "population": 51396267,
+      "name": "Kenya",
+      "continent": "Africa",
+      "capital": "Nairobi",
+      "funFact": "The Great Rift Valley runs through Kenya."
+    },
+    {
+      "id": 28,
+      "population": 51694167,
+      "name": "South Korea",
+      "continent": "Asia",
+      "capital": "Seoul",
+      "funFact": "South Korea has the world’s fastest average internet speed."
+    },
+    {
+      "id": 29,
+      "population": 51265844,
+      "name": "Colombia",
+      "continent": "South America",
+      "capital": "Bogotá",
+      "funFact": "Colombia produces over 80% of the world’s emeralds."
+    },
+    {
+      "id": 30,
+      "population": 47450795,
+      "name": "Spain",
+      "continent": "Europe",
+      "capital": "Madrid",
+      "funFact": "Spain has the world’s oldest restaurant, Botín, founded in 1725."
+    },
+    {
+      "id": 31,
+      "population": 48608000,
+      "name": "Uganda",
+      "continent": "Africa",
+      "capital": "Kampala",
+      "funFact": "Uganda is known as the “Pearl of Africa.”"
+    },
+    {
+      "id": 32,
+      "population": 45808747,
+      "name": "Argentina",
+      "continent": "South America",
+      "capital": "Buenos Aires",
+      "funFact": "Argentina was the first country in Latin America to legalize same-sex marriage."
+    },
+    {
+      "id": 33,
+      "population": 45350081,
+      "name": "Algeria",
+      "continent": "Africa",
+      "capital": "Algiers",
+      "funFact": "Algeria is the largest country in Africa by land area."
+    },
+    {
+      "id": 34,
+      "population": 49317182,
+      "name": "Sudan",
+      "continent": "Africa",
+      "capital": "Khartoum",
+      "funFact": "Sudan has more pyramids than any other country."
+    },
+    {
+      "id": 35,
+      "population": 43790806,
+      "name": "Ukraine",
+      "continent": "Europe",
+      "capital": "Kyiv",
+      "funFact": "Ukraine is the largest country entirely within Europe."
+    },
+    {
+      "id": 36,
+      "population": 46464700,
+      "name": "Iraq",
+      "continent": "Asia",
+      "capital": "Baghdad",
+      "funFact": "Iraq is home to the ancient Mesopotamian civilization, the “Cradle of Civilization.”"
+    },
+    {
+      "id": 37,
+      "population": 41800000,
+      "name": "Afghanistan",
+      "continent": "Asia",
+      "capital": "Kabul",
+      "funFact": "Afghanistan is known as the “Roof of the World” due to the Hindu Kush range."
+    },
+    {
+      "id": 38,
+      "population": 38186860,
+      "name": "Poland",
+      "continent": "Europe",
+      "capital": "Warsaw",
+      "funFact": "Poland has the world’s largest castle by land area, Malbork Castle."
+    },
+    {
+      "id": 39,
+      "population": 39455317,
+      "name": "Canada",
+      "continent": "North America",
+      "capital": "Ottawa",
+      "funFact": "Canada has the longest coastline of any country."
+    },
+    {
+      "id": 40,
+      "population": 38255232,
+      "name": "Morocco",
+      "continent": "Africa",
+      "capital": "Rabat",
+      "funFact": "Morocco’s city of Fès is home to the world’s oldest continuously operating university."
+    },
+    {
+      "id": 41,
+      "population": 36963414,
+      "name": "Saudi Arabia",
+      "continent": "Asia",
+      "capital": "Riyadh",
+      "funFact": "Saudi Arabia is the world’s largest oil exporter."
+    },
+    {
+      "id": 42,
+      "population": 36024000,
+      "name": "Uzbekistan",
+      "continent": "Asia",
+      "capital": "Tashkent",
+      "funFact": "Uzbekistan is home to the historic Silk Road city of Samarkand."
+    },
+    {
+      "id": 43,
+      "population": 35343131,
+      "name": "Peru",
+      "continent": "South America",
+      "capital": "Lima",
+      "funFact": "Machu Picchu in Peru is one of the New Seven Wonders of the World."
+    },
+    {
+      "id": 44,
+      "population": 36652472,
+      "name": "Angola",
+      "continent": "Africa",
+      "capital": "Luanda",
+      "funFact": "Angola’s Kissama National Park is famous for its elephant migrations."
+    },
+    {
+      "id": 45,
+      "population": 34777799,
+      "name": "Malaysia",
+      "continent": "Asia",
+      "capital": "Kuala Lumpur",
+      "funFact": "Malaysia’s Petronas Towers were the tallest buildings in the world from 1998–2004."
+    },
+    {
+      "id": 46,
+      "population": 34784915,
+      "name": "Mozambique",
+      "continent": "Africa",
+      "capital": "Maputo",
+      "funFact": "Mozambique has one of the world’s longest coastlines on the Indian Ocean."
+    },
+    {
+      "id": 47,
+      "population": 33727491,
+      "name": "Ghana",
+      "continent": "Africa",
+      "capital": "Accra",
+      "funFact": "Ghana was the first sub-Saharan African country to gain independence from colonial rule."
+    },
+    {
+      "id": 48,
+      "population": 34530004,
+      "name": "Yemen",
+      "continent": "Asia",
+      "capital": "Sana’a",
+      "funFact": "Yemen’s Socotra Island has the dragon’s blood tree, found nowhere else."
+    },
+    {
+      "id": 49,
+      "population": 31019968,
+      "name": "Nepal",
+      "continent": "Asia",
+      "capital": "Kathmandu",
+      "funFact": "Nepal is home to eight of the world’s ten highest peaks, including Everest."
+    },
+    {
+      "id": 50,
+      "population": 29185047,
+      "name": "Venezuela",
+      "continent": "South America",
+      "capital": "Caracas",
+      "funFact": "Venezuela has the world’s highest waterfall, Angel Falls."
+    }
+  ]
+  
